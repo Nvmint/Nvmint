@@ -1,11 +1,9 @@
 name: Waka Readme
-
 on:
   workflow_dispatch:
   schedule:
     # Runs at 12 AM UTC every day
     - cron: "0 0 * * *"
-
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -14,3 +12,9 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: last_7_days        # Show last 7 days instead of all time
+          LANG_COUNT: 8                  # Show 8 languages instead of 5
+          SHOW_TITLE: true               # Show "From: To:" title
+          SHOW_TIME: true                # Show time spent
+          SHOW_TOTAL: true               # Show total coding time
+          SHOW_MASKED_TIME: false        # Don't include private time
