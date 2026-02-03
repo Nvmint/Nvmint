@@ -2,4 +2,14 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 27 January 2026 - To: 03 February 2026
+
+Total Time: 3 hrs 59 mins
+
+Python     3 hrs 29 mins   ██████████████████████░░░   87.66 %
+Markdown   22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+Bash       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+```
+
 <!--END_SECTION:waka-->
