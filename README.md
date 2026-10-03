@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2026 - To: 01 October 2026
+From: 25 September 2026 - To: 02 October 2026
 
-Total Time: 42 mins
+Total Time: 28 mins
 
-TypeScript   41 mins               ██████████████████████▓░░   90.21 %
-Other        4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+TypeScript   28 mins               █████████████████████▓░░░   86.31 %
+Other        4 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
+Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
