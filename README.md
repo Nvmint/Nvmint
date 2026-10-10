@@ -3,17 +3,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2026 - To: 08 October 2026
+From: 02 October 2026 - To: 09 October 2026
 
-Total Time: 3 hrs 21 mins
+Total Time: 2 hrs 27 mins
 
-TypeScript   1 hr 53 mins          █████████████▓░░░░░░░░░░░   54.76 %
-SQL          1 hr 11 mins          ████████▓░░░░░░░░░░░░░░░░   34.64 %
-Markdown     7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Git Config   6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Other        5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Bash         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript   1 hr 45 mins          █████████████████▒░░░░░░░   68.96 %
+SQL          30 mins               █████░░░░░░░░░░░░░░░░░░░░   20.22 %
+Git Config   6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Other        5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Bash         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Markdown     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
