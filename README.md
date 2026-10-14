@@ -3,16 +3,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2026 - To: 12 October 2026
+From: 06 October 2026 - To: 13 October 2026
 
-Total Time: 1 hr 48 mins
+Total Time: 2 hrs 38 mins
 
-TypeScript   38 mins               ████████▒░░░░░░░░░░░░░░░░   33.71 %
-Markdown     36 mins               ████████░░░░░░░░░░░░░░░░░   32.29 %
-Bash         18 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-JavaScript   10 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-Other        5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-SQL          4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+SQL          58 mins               █████████░░░░░░░░░░░░░░░░   35.89 %
+Markdown     36 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
+TypeScript   33 mins               █████░░░░░░░░░░░░░░░░░░░░   20.41 %
+Bash         18 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+JavaScript   10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Other        6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
