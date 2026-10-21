@@ -3,14 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2026 - To: 19 October 2026
+From: 13 October 2026 - To: 20 October 2026
 
-Total Time: 1 hr 32 mins
+Total Time: 24 mins
 
-SQL          1 hr 10 mins          ██████████████████▒░░░░░░   73.39 %
-TypeScript   22 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
-Other        3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TypeScript   22 mins               ██████████████████████▓░░   90.19 %
+SQL          2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
 ```
 
 <!--END_SECTION:waka-->
